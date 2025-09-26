@@ -1,0 +1,14 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+langchain==0.0.346
+langchain-community==0.0.10
+langchain-core==0.1.23
+langgraph==0.0.40
+langchain-google-genai==0.0.11
+google-generativeai==0.3.2
+chromadb==0.4.15
+sentence-transformers==2.2.2
+pypdf==3.17.0
+python-dotenv==1.0.0
+pydantic==2.5.0
+tavily-python==0.3.0
